@@ -26,15 +26,6 @@ I am a passionate technology leader and full-stack developer dedicated to buildi
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=whoisjeeva&show_icons=true&theme=radical&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoisjeeva&layout=compact&theme=radical" height="150" alt="languages graph" />
-</div>
-
----
-
 ### 📫 Connect with Me
 
 [<img src="https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://instagram.com/whoisjeeva)

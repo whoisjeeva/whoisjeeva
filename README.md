@@ -38,4 +38,3 @@ I am a passionate technology leader and full-stack developer dedicated to buildi
 ### 📫 Connect with Me
 
 [<img src="https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://instagram.com/whoisjeeva)
-[<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://codend.io)

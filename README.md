@@ -1,7 +1,5 @@
 # Hi there! 👋 I'm Ravindrakumar Jeevakumar
 
-### 🚀 Founder & CEO at [Codend (Pvt) Ltd](https://www.codend.io)
-
 I am a passionate technology leader and full-stack developer dedicated to building innovative solutions. My work bridges the gap between complex engineering and practical application, ranging from automation to artificial intelligence.
 
 ---

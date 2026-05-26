@@ -25,7 +25,3 @@ I am a passionate technology leader and full-stack developer dedicated to buildi
 ![AI](https://img.shields.io/badge/Focus-AI-orange?style=flat-square)
 
 ---
-
-### 📫 Connect with Me
-
-[<img src="https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://instagram.com/whoisjeeva)
